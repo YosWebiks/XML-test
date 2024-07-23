@@ -1,0 +1,33 @@
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\bin\Debug\Guests.exe.config
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\bin\Debug\Guests.exe
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\bin\Debug\Guests.pdb
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\obj\Debug\Guests.csproj.AssemblyReference.cache
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\obj\Debug\Guests.Categories.resources
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\obj\Debug\Guests.Main.resources
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\obj\Debug\Guests.Properties.Resources.resources
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\obj\Debug\Guests.csproj.GenerateResource.cache
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\obj\Debug\Guests.csproj.CoreCompileInputs.cache
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\obj\Debug\Guests.exe
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Guests\Guests\obj\Debug\Guests.pdb
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\bin\Debug\Guests.exe.config
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\bin\Debug\Guests.exe
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\bin\Debug\Guests.pdb
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\obj\Debug\Guests.csproj.AssemblyReference.cache
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\obj\Debug\Guests.Categories.resources
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\obj\Debug\Guests.Main.resources
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\obj\Debug\Guests.Properties.Resources.resources
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\obj\Debug\Guests.csproj.GenerateResource.cache
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\obj\Debug\Guests.csproj.CoreCompileInputs.cache
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\obj\Debug\Guests.exe
+C:\Users\daniel shalem\Desktop\Guest\Guests\Guests\obj\Debug\Guests.pdb
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\bin\Debug\Guests.exe.config
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\bin\Debug\Guests.exe
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\bin\Debug\Guests.pdb
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\obj\Debug\Guests.csproj.AssemblyReference.cache
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\obj\Debug\Guests.Categories.resources
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\obj\Debug\Guests.Main.resources
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\obj\Debug\Guests.Properties.Resources.resources
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\obj\Debug\Guests.csproj.GenerateResource.cache
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\obj\Debug\Guests.csproj.CoreCompileInputs.cache
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\obj\Debug\Guests.exe
+C:\Users\Yosi\Desktop\Guest\Guests\Guests\obj\Debug\Guests.pdb

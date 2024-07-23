@@ -1,0 +1,30 @@
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\bin\Debug\Host.exe.config
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\bin\Debug\Host.exe
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\bin\Debug\Host.pdb
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\obj\Debug\Host.Main.resources
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\obj\Debug\Host.exe
+C:\Users\uribr\Documents\קורסים 2024\רמת גן\Projects\Guest\Host\Host\obj\Debug\Host.pdb
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\bin\Debug\Host.exe.config
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\bin\Debug\Host.exe
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\bin\Debug\Host.pdb
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\obj\Debug\Host.Main.resources
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\obj\Debug\Host.exe
+C:\Users\daniel shalem\Desktop\Guest\Host\Host\obj\Debug\Host.pdb
+C:\Users\Yosi\Desktop\Guest\Host\Host\bin\Debug\Host.exe.config
+C:\Users\Yosi\Desktop\Guest\Host\Host\bin\Debug\Host.exe
+C:\Users\Yosi\Desktop\Guest\Host\Host\bin\Debug\Host.pdb
+C:\Users\Yosi\Desktop\Guest\Host\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\Yosi\Desktop\Guest\Host\Host\obj\Debug\Host.Main.resources
+C:\Users\Yosi\Desktop\Guest\Host\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\Yosi\Desktop\Guest\Host\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\Yosi\Desktop\Guest\Host\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Yosi\Desktop\Guest\Host\Host\obj\Debug\Host.exe
+C:\Users\Yosi\Desktop\Guest\Host\Host\obj\Debug\Host.pdb
